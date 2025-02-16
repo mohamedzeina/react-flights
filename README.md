@@ -1,4 +1,4 @@
-# React Flight App ✈️
+# React Flights App ✈️
 
 A simple and user-friendly flight search application built with React, allowing users to search for flights based on their travel preferences.
 
@@ -20,22 +20,19 @@ A simple and user-friendly flight search application built with React, allowing 
    cd react-flights
    ```
 3. Install dependencies:
-
-```bash
-npm install
-```
-
-4. Configure local environment variables in .env.local:
-
    ```bash
-   NEXT_PUBLIC_RAPIDAPI_KEY="YOUR RAPID API KEY"
+   npm install
    ```
 
-5. Start the development server:
+4. Configure local environment variables in .env.local:
+   ```bash
+   NEXT_PUBLIC_RAPIDAPI_KEY="YOUR RAPID API KEY"
+    ```
 
-```bash
-npm run dev
-```
+5. Start the development server:
+   ```bash
+   npm run dev
+   ```
 
 ## Usage
 
@@ -55,6 +52,6 @@ To use the API, follow these steps:
 
 ## Technologies Used
 
-React.js
-Tailwind CSS
-Air Scraper API (RapidAPI)
+- React.js
+- Tailwind CSS
+- Air Scraper API (RapidAPI)
